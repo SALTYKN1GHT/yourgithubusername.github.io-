@@ -1,0 +1,71 @@
+i{
+  position:absolute;
+  left: 10%;
+  top: 23px;
+}
+ header {
+    text-align: right;
+    margin: 0;
+    padding: 20px;
+    padding-right: 10%;
+    right: 5px;
+    background-color: #333;
+} 
+
+a {
+    text-align: right;
+    color: #f09;
+    padding: 20px;
+} 
+h1 {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 7%;
+  font-size: 42pt ;
+  font-family: "Merriweather";
+  font-weight: 600;
+}
+h2{
+  padding-left: 10%;
+  padding-right: 10%;
+  color: #f09;
+  font-size: 26pt ;
+  font-family: "Merriweather";
+  font-weight: 400;
+}
+p{
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: 'Courier New', Courier, monospace;
+}
+div{
+  text-align: center;
+  padding-top: 2%;
+}
+h3{
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+  font-size: 26pt;
+  font-family: "Merriweather";
+}
+h4{
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 18pt ;
+  font-family: "Merriweather";
+  font-weight: 900;
+}
+h5{
+  padding-top: 2%;
+  padding-left: 10%;
+  font-size: 14pt;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}
+h6{
+  text-align: center;
+  font-size: 14pt;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}
